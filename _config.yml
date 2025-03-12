@@ -1,6 +1,5 @@
 title: 満員電車記録帳
-description: > # this means to ignore newlines until "baseurl:"
-  満員電車記録帳
+description: 満員電車記録帳 # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/diary-2" # the subpath of your site, e.g. /blog
 url: "https://liqrase.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,6 +22,7 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Build Settings
+future: true
 markdown: kramdown
 plugins:
   - jekyll-sitemap
