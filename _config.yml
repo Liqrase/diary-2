@@ -1,6 +1,6 @@
 title: 満員電車記録帳
 description: > # this means to ignore newlines until "baseurl:"
-  グラミング周りの私的なことを雑に載せる場所です。
+  満員電車記録帳
 permalink: ':title/'
 baseurl: "/diary-2" # the subpath of your site, e.g. /blog
 url: "https://liqrase.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Ligrase # add your name
 author-img: ofuro_oke_wood.png # add your photo
-about-author: 毎日の満員電車を点数化して楽しもうと目論むｓｓ気持ち悪い場所です。 # add description
+about-author: 満員電車の日々を主観で点数化しつつ、未知の音楽を聴いて楽しむことを目論む日記。 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
