@@ -24,9 +24,16 @@ tags: [満員電車]
 #### 聴いた曲：モーツァルトK.467 - ピアノ協奏曲21番
 https://youtu.be/NgY0QcUjtYE?si=mmsBqZSgn7L0eRdW
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://youtu.be/NgY0QcUjtYE"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 第一楽章を聴きました。
 全体的には穏やかに進むけれど、最初と11:30からと12:20からラストまではなかなかの迫力に。
-ピアノが本格的にでてくるまで2分の前振りがあって、遂に出たね感がある。
+ピアノが本格的にでてくるまで2分の前振りがあって、登場時に遂に出たね感がある。
 短調ポイントは3,4カ所な印象で少なめ。
 この曲のヴィオラは徹頭徹尾支え役の伴奏でした。
 
