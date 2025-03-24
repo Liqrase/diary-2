@@ -21,7 +21,7 @@ tags: [満員電車]
 
 総合評価：35点
 
-#### 聴いた曲：モーツァルトK.467 - ピアノ協奏曲21番
+#### 聴いた曲：モーツァルトK.467 - ピアノ協奏曲21番 第1楽章
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/NgY0QcUjtYE"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -34,6 +34,28 @@ YouTube「morzart concerto」で検索してすぐの位置に出てきたこの
 ピアノが本格的にでてくるまで2分の前振りがあって、登場時に遂に出たね感がある。<br>
 短調ポイントは3,4カ所な印象で少なめ。<br>
 この曲のヴィオラは徹頭徹尾支え役の伴奏でした。
+
+
+## 3月25日(8:10)
+
+ハルダン(視覚)：☆☆☆☆ <br>
+デイヴィッド(視覚)：☆☆☆☆ <br>
+メルケル(圧覚)：☆☆☆ <br>
+マイスナー(圧覚)：☆☆☆☆ <br>
+ルフィニ(痛覚)： <br>
+アーデム(温覚)：☆☆☆ <br>
+リンダ(嗅覚)：☆ <br>
+ローベルト(平衡覚)：☆☆☆☆ <br>
+ゲオルク(聴覚)： <br>
+
+総合評価：70点
+
+#### 聴いた曲：モーツァルトK.467 - ピアノ協奏曲21番 第2,3楽章
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://youtube.com/embed/cBf4nc3TRa4"style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 
 
