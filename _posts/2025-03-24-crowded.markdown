@@ -52,7 +52,7 @@ YouTube「morzart concerto」で検索してすぐの位置に出てきたこの
 
 #### 聴いた曲：モーツァルトK.467 - ピアノ協奏曲21番 第2,3楽章
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/cBf4nc3TRa4"style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe src="https://www.youtube.com/embed/cBf4nc3TRa4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
@@ -61,7 +61,7 @@ YouTube「morzart concerto」で検索してすぐの位置に出てきたこの
 第2楽章の主題は、モーツァルトの他の室内楽曲でも聴いた気がする。曲名は思い出せない。<br>
 中盤では下のセレナーデ10番の19分35秒から始まるアダージョの中盤と同じ動きをしていて、私に刺さりました(この動き大好き)。
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/PolXz9ULcQ"style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe src="https://www.youtube.com/embed/PolXz9ULcQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
