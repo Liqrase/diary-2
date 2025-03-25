@@ -85,13 +85,11 @@ YouTube「morzart concerto」で検索してすぐの位置に出てきたこの
 久々に本格的なギュウギュウ詰めで満足度高し。
 
 #### 聴いた曲：Potion Craft OST
-<iframe src="https://www.youtube.com/embed/videoseries?list=PLzABeBrZ8ONM4l12dPljOVFRcxPcJ66lF" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
-
-https://youtube.com/watch?v=VfXViCmH0b0&si=dG0i0HVj98BtiDBa
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://youtube.com/watch?v=VfXViCmH0b0&si=dG0i0HVj98BtiDBa" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 作業用bgm系。全7曲であっさり。<br>
 この中から1番好きなのを選べと言われたら、結構難しい。<br>
