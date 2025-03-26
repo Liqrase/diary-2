@@ -1,0 +1,28 @@
+---
+layout: post
+title: 記録_3月第4週
+date: 2025-03-17 21:00:00
+description:  # Add post description (optional)
+img: postimg/character_game_mimic.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [満員電車]
+---
+3月第4週は満員電車の中で聴いた曲のみを貼り付けます。
+この週はWizardry週間でした。
+
+## 3月17日(月)
+#### 聴いた曲：［FC］ウィザードリィ 1（Wizardry 1）BGM集
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYOz-R8HBzI?si=C1L0aNNEaJwYMfyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 3月18日(火)
+#### 聴いた曲：［FC］ウィザードリィ２（Wizardry 2）BGM集
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S9zba6EoruY?si=OCe3ugmjYilmyFUu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 3月19日(水)
+#### 聴いた曲：［BGM］ ［FC］ウィザードリィ III ダイヤモンドの騎士 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AZ2h8DabjY?si=S0jBpEQjU812gunW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 3月21日(金)
+#### 聴いた曲：Wizardry Gaiden IV Throb of the Demon's Heart (Super Nintendo) - full ost
+最初から15分まで。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1LpZCX8teBc?si=mQ7BbgkYS-3yDz9P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
