@@ -12,19 +12,35 @@ tags: [満員電車]
 
 ## 3月17日(月)
 #### 聴いた曲：［FC］ウィザードリィ 1（Wizardry 1）BGM集
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oYOz-R8HBzI?si=C1L0aNNEaJwYMfyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/oYOz-R8HBzI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 ## 3月18日(火)
 #### 聴いた曲：［FC］ウィザードリィ２（Wizardry 2）BGM集
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9zba6EoruY?si=OCe3ugmjYilmyFUu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/S9zba6EoruY?si=OCe3ugmjYilmyFUu" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 ## 3月19日(水)
 #### 聴いた曲：［BGM］ ［FC］ウィザードリィ III ダイヤモンドの騎士 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AZ2h8DabjY?si=S0jBpEQjU812gunW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/3AZ2h8DabjY?si=S0jBpEQjU812gunW" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 ## 3月21日(金)
 #### 聴いた曲：Wizardry Gaiden IV Throb of the Demon's Heart (Super Nintendo) - full ost
 最初から15分まで。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1LpZCX8teBc?si=mQ7BbgkYS-3yDz9P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/1LpZCX8teBc?si=mQ7BbgkYS-3yDz9P" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 
 気に入った部分などのメモは時間があるときに・・・・。
