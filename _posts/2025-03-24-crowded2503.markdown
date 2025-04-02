@@ -110,7 +110,7 @@ YouTube「morzart concerto」で検索してすぐの位置に出てきたこの
 
 #### 聴いた曲：モーツァルトK.229 フルートとハープの協奏曲
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://youtu.be/nheif2BuFz0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe src="https://www.youtube.com/embed/nheif2BuFz0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
