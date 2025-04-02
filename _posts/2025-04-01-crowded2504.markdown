@@ -49,8 +49,11 @@ tags: [満員電車]
 
 総合評価：72点
 
-#### 聴いた曲：Wizardry Ⅳ　OST (15分〜50分)
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">   <iframe src="https://youtube.com/embed/u9pV2OtV3Oc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"           frameborder="0" allowfullscreen>
+#### 聴いた曲：Wizardry Gaiden IV Throb of the Demon's Heart (Super Nintendo) - full ost
+最初から15分まで。
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/1LpZCX8teBc?si=mQ7BbgkYS-3yDz9P" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
   </iframe>
 </div>
 
