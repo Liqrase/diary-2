@@ -52,7 +52,7 @@ tags: [満員電車]
 #### 聴いた曲：Wizardry Gaiden IV Throb of the Demon's Heart (Super Nintendo) - full ost
 15分から50分まで。
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/1LpZCX8teBc?si=mQ7BbgkYS-3yDz9P" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe src="https://www.youtube.com/embed/1LpZCX8teBc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
@@ -79,4 +79,10 @@ tags: [満員電車]
 50分～ラストまで。
 
 クソゲーで名高いWizardryOnlineのBGMは好きでしたが、<br>
-う～んどうやら、WizardryのBGMは嫌いではないけれど、刺さるような相性の良さは無さそうです！
+う～んどうやら、WizardryのBGMは嫌いではないけれど、刺さるような相性の良さは無さそうです！<br>
+ということで、今日は代わりにWizOnの方のオリジナルサウンドトラックのYouTube動画を貼っておきます。<br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/CvURXkkDp7w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
