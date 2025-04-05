@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const exceptionPrefix2 = "https://www.liqrase.net/";
     if (
       link.hostname !== window.location.hostname &&
-      (!link.href.startsWith(exceptionPrefix) || !link.href.startsWith(exceptionPrefix2))
+      (!link.href.startsWith(exceptionPrefix) && !link.href.startsWith(exceptionPrefix2))
     ) {
       link.setAttribute("target", "_blank");
       link.setAttribute("rel", "noopener noreferrer");
