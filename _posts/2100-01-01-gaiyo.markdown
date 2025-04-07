@@ -3,7 +3,7 @@ layout: post
 title: 概要
 date: 2100-01-01 21:00:00
 description:  # Add post description (optional)
-img: postimg/train_manin_business.png # Add image post (optional)
+img: postimg/manden.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [満員電車]
 ---
