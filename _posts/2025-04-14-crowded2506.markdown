@@ -1,5 +1,32 @@
+---
+layout: post
+title: 記録_4月第3週
+date: 2025-04-14 21:00:00
+description:  # Add post description (optional)
+img: postimg/holstwakusei.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [満員電車]
+---
 
+## 4月7日(月)　晴
 
+ハルダン(視覚)：☆☆☆☆ <br>
+デイヴィッド(視覚)：☆☆ <br>
+メルケル(圧覚)：☆☆☆☆ <br>
+マイスナー(圧覚)：☆☆☆☆ <br>
+ルフィニ(痛覚)： <br>
+アーデム(温覚)：☆☆☆ <br>
+リンダ(嗅覚)：★★ <br>
+ローベルト(平衡覚)：☆ <br>
+ゲオルク(聴覚)： <br>
 
+総合評価：41点
 
-https://youtu.be/R9bncRO-1yw?si=6CBna6XjhZS0AlIM
+#### 聴いた曲：Navaei
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/R9bncRO-1yw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+ペルシア音楽。<br>
+ナボイ〜ナボイ〜ナボイ〜ナボォ〜イ〜
