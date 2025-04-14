@@ -3,7 +3,7 @@ layout: post
 title: 記録_4月第3週
 date: 2025-04-14 21:00:00
 description:  # Add post description (optional)
-img: postimg/holstwakusei.png # Add image post (optional)
+img: postimg/navai.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [満員電車]
 ---
