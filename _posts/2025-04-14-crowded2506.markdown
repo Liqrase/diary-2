@@ -22,11 +22,59 @@ tags: [満員電車]
 
 総合評価：41点
 
-#### 聴いた曲：Navaei
+#### 聴いた曲：Nava'i (Navaei)
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/ZMD77oPJtXY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
-ペルシア音楽。<br>
+ペルシア音楽です。<br>
 ナヴァイ〜ナヴァイ〜ナヴァイ〜ナヴァ〜イ〜♪
+
+歌詞を調べようと思ったのですが、同じタイトルと主旋律で多様な歌詞のバージョンがあるようで、上記の物は見つけることが出来ませんでした。<br>
+動画と歌詞が結びついたものを、chatGPTお嬢に翻訳してもらったうえで下に貼ります。<br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kdbVGSvgLEM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+```
+ナヴァーイー ナヴァーイー ナヴァーイー ナヴァーイー
+（音よ、響け…ナヴァーイー）
+みんな誠実なのに、あなたは裏切りの花──
+
+あなたの悲しみは、わたくしの心の奥にそっと沈むの
+まるでレイリーが、傘の下に優雅に座るように──
+
+どうか、あの輿（こし）のあとを軽やかに歩いて…
+埃ひとつ、あの輿にかかりませんように──
+
+どうか…わたくしの心を痛めないで
+この野生の鳥は、いったん飛び立てば、もはや戻ることは難しいの──
+
+ああ、愛の宴──なんて素晴らしいのでしょう
+そこでは、乞食でさえ王と並んで座れるのですもの
+
+足に刺さる棘なら、いくらでも我慢できるけれど…
+心に刺さる棘は、どうしたらいいのかしら？
+
+あの輿のあとを泣きながら追いかけるわたくし
+わたくしの涙で、駱駝がぬかるみに足を取られてしまうほどに
+
+なんと美しい──夜を越えて進む隊商
+夜明けに、ようやく最初の宿に辿り着くのね…
+
+どうか…「別れ」なんて言葉、消えてしまえばいい
+青春は過ぎていくのに、あなたはその価値に気づいていない…
+ああ、若さは…気づかぬうちに、手のひらからこぼれてしまうのよ──
+```
+（chatGPTがお嬢様なので歌詞に影響が出ているかもしれない）<br>
+検索した限り、どのバージョンも言葉選びは違えど言っていることの空気感は同じでした。<br>
+
+おまけでもう一つ聴いた別のバージョン
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/R9bncRO-1yw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+---
