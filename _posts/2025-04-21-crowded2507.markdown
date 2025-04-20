@@ -1,0 +1,59 @@
+---
+layout: post
+title: 記録_4月第4週
+date: 2025-04-14 21:00:00
+description:  # Add post description (optional)
+img: postimg/.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [満員電車]
+---
+
+## 4月21日(月)　8:05 晴
+
+ハルダン(視覚)：☆☆☆☆☆ <br>
+デイヴィッド(視覚)：☆☆☆☆ <br>
+メルケル(圧覚)：☆☆☆☆ <br>
+マイスナー(圧覚)：☆☆☆☆☆ <br>
+ルフィニ(痛覚)： <br>
+アーデム(温覚)：☆☆☆ <br>
+リンダ(嗅覚)：☆☆ <br>
+ローベルト(平衡覚)：★ <br>
+ゲオルク(聴覚)： <br>
+
+総合評価：86点
+
+#### 聴いた曲1：フリーBGM 下水道『下水道』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/-icygZVwXB0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+#### 聴いた曲2：フリーBGM 下水道『Monster Sewer』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/54HC1q8XGuc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+#### 聴いた曲3：ロマンシング・サ・ガ 『下水道』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/54HC1q8XGuc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+#### 聴いた曲4：(↑のバンドアレンジ)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/LaON5eme0HA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### 聴いた曲5：ポケモンBW『ヒウン下水道』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/RQcYk_KQemY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
