@@ -78,7 +78,7 @@ tags: [満員電車]
 </div>
 そこそこ私好み
 
-#### 聴いた曲7：対魔GAIDEN『Sewer level theme』
+#### 聴いた曲8：対魔GAIDEN『Sewer level theme』
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/kVmmoecoF_Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0" allowfullscreen>
