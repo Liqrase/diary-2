@@ -136,3 +136,44 @@ tags: [満員電車]
   </iframe>
 </div>
 なにこれｗ
+
+---
+
+## 4月22日(月)　8:20 小雨
+
+ハルダン(視覚)：☆☆☆☆ <br>
+デイヴィッド(視覚)：☆☆☆ <br>
+メルケル(圧覚)：☆☆☆ <br>
+マイスナー(圧覚)：☆☆☆ <br>
+ルフィニ(痛覚)： <br>
+アーデム(温覚)：☆☆☆ <br>
+リンダ(嗅覚)：☆☆ <br>
+ローベルト(平衡覚)：☆☆☆ <br>
+ゲオルク(聴覚)： <br>
+
+総合評価：60点
+
+#### 聴いた曲1：セシル・シャミナード『L'Ondine』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/mbXtHgGKVEk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### 聴いた曲2：セシル・シャミナード『ピアノ・ソナタ ト短調』Op.21
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/L4IjloAwgd4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### 聴いた曲3：セシル・シャミナード『フルートとピアノの小協奏曲』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/MN4pvzT8C6k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+セシル・シャミナードは初の作曲家業一本で経済的に自立した女性らしいです。
