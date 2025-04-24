@@ -88,7 +88,7 @@ tags: [満員電車]
 
 ---
 
-## 4月22日(月)　8:20 晴
+## 4月22日(火)　8:20 晴
 
 ハルダン(視覚)：☆☆☆☆ <br>
 デイヴィッド(視覚)：☆☆☆☆ <br>
@@ -139,7 +139,7 @@ tags: [満員電車]
 
 ---
 
-## 4月22日(月)　8:20 小雨
+## 4月23日(水)　8:20 小雨
 
 ハルダン(視覚)：☆☆☆☆ <br>
 デイヴィッド(視覚)：☆☆☆ <br>
@@ -177,3 +177,35 @@ tags: [満員電車]
 </div>
 
 セシル・シャミナードは初の作曲家業一本で経済的に自立した女性らしいです。
+
+---
+
+## 4月24日(木)　8:35 小雨
+
+ハルダン(視覚)：☆☆☆☆ <br>
+デイヴィッド(視覚)：☆☆☆☆☆ <br>
+メルケル(圧覚)：☆☆☆☆ <br>
+マイスナー(圧覚)：☆☆☆ <br>
+ルフィニ(痛覚)： <br>
+アーデム(温覚)：☆☆☆ <br>
+リンダ(嗅覚)：☆☆☆ <br>
+ローベルト(平衡覚)：☆☆☆ <br>
+ゲオルク(聴覚)： <br>
+
+総合評価：80点
+
+#### 聴いた曲1：のびハザG Rebrth 『下水道』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/dWCah6bQJm4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### 聴いた曲2：FF12 『下水道脱出』
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/0SeryNSWfEA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
