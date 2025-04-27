@@ -209,3 +209,59 @@ tags: [満員電車]
   </iframe>
 </div>
 
+---
+
+---
+
+## 4月25日(金)　8:35 曇
+
+ハルダン(視覚)：☆☆☆☆☆ <br>
+デイヴィッド(視覚)：☆☆☆☆ <br>
+メルケル(圧覚)：☆☆☆☆☆ <br>
+マイスナー(圧覚)：☆☆☆☆ <br>
+ルフィニ(痛覚)：★★ - ポールに押し付けられる<br>
+アーデム(温覚)：☆☆☆ <br>
+リンダ(嗅覚)：☆☆☆ <br>
+ローベルト(平衡覚)：☆☆☆ <br>
+ゲオルク(聴覚)： <br>
+
+総合評価：87点
+
+#### 曲紹介：
+
+今日は、既に曲を覚えている水道BGMを貼る
+
+#### WizardryOnline『カリグラーゼ下水道』
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/uYbX9gUThrc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### Ys2『地下水路』PCエンジン版
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/66TrlhIKfzI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### Ys2『地下水路』
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/aXnwB5JTknQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
+
+#### クロノトリガー『地下水道』
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/7XCsmWn-a5w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
