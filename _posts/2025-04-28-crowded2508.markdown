@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 記録_4月第4週
-date: 2025-04-14 21:00:00
+date: 2025-04-28 21:00:00
 description:  # Add post description (optional)
 img: postimg/2508_arto.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
